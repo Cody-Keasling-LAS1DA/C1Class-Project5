@@ -108,9 +108,9 @@ img {
     }
 }
 .nav-item:hover{
-    background-color: aqua;
+    background-color: cornsilk;
     color: black;
-    border-radius: 25%;
+    border-radius: 10%;
 }
 .card {
     transform-origin: center;
